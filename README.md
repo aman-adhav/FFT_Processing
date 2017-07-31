@@ -1,6 +1,6 @@
 # FFT_AudioProcessing
 
-Uses Minim part of Processing-3.3 IDE for Audio processing.
+Uses Minim part of Processing-3.3 IDE for Audio processing. This program detects the musical pitch of the audio file/audio input. FFT algorithms inbuilt in the Minim library are used to calculate max frequency per frame (512 frames). 
 
 Requirements : 
 
@@ -22,3 +22,7 @@ Include the following in the file path from Processing folder :
   -Djava.library.path=C:\Users\processing-2.2.1\processing-2.2.1\modes\java\libraries\minim\library
 
 ```
+
+
+
+

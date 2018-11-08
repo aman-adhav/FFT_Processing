@@ -29,7 +29,7 @@ You'll need a few things :
 * [Git](https://git-scm.com/), to clone this repository
 * [Java](https://www.java.com/en/download/)
 * [Eclipse](https://www.eclipse.org/downloads/)
-* [Gradle] (https://gradle.org/) Plugin in eclipse marketplace
+* [Gradle] (https://gradle.org/), Plugin in eclipse marketplace
 
 If running the .jar/.exe files skip the installation steps
 

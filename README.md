@@ -5,7 +5,7 @@
 
 by: Aman Adhav <a href="https://linkedin.com/in/amanadhav"><img src="https://raw.githubusercontent.com/jrobchin/phormatics/master/screenshots/linkedin.png" height="20px"></a> <a href="https://github.com/dreamincodeforlife"><img src="https://raw.githubusercontent.com/jrobchin/phormatics/master/screenshots/github.png" height="20px"></a>
 
-Part of the project, [Hummit](https://github.com/dreamInCoDeforlife/Hummit) developed at [HackTheNorth Fall 2017](https://hackthenorth.com). Repository focuses on detection and filteration of sounds, finding amplitudes, frequencies and pitch of the notes.
+Part of the project, [Hummit](https://devpost.com/software/hummit-4m9rco) developed at [HackTheNorth Fall 2017](https://hackthenorth.com). Repository focuses on detection and filteration of sounds, finding amplitudes, frequencies and pitch of the notes.
 
 
 ### Executable Program & Web Application:

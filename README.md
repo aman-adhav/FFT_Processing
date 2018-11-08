@@ -23,7 +23,7 @@ Include the following in the file path from Processing folder :
 
 <h1>FFT_AudioProcessing: <em>Fast Fourier Transform Pitch Detection at 60fps</em></h1>
 
-<img src="https://giphy.com/embed/t7ugl980nwxelPoBa9" width="480" height="234"</br>
+<img src="https://giphy.com/embed/t7ugl980nwxelPoBa9" height="234"</br>
 <sup><em>f1: Working example of the text speech to latex converted function which has been graphed.</em></sup>
 
 by: Aman Adhav <a href="https://linkedin.com/in/amanadhav"><img src="https://raw.githubusercontent.com/jrobchin/phormatics/master/screenshots/linkedin.png" height="20px"></a> <a href="https://github.com/dreamincodeforlife"><img src="https://raw.githubusercontent.com/jrobchin/phormatics/master/screenshots/github.png" height="20px"></a>

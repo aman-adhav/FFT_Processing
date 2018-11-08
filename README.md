@@ -1,6 +1,6 @@
 <h1>FFT_AudioProcessing: <em>Fast Fourier Transform Pitch Detection at 60fps</em></h1>
 
-<img src="https://giphy.com/embed/t7ugl980nwxelPoBa9"></br>
+<img src="https://media.giphy.com/media/t7ugl980nwxelPoBa9/giphy.gif"></br>
 <sup><em>f1: Working example of pitch detection at 512 fps detecting Pitch, Crossing Over, Amplitude</em></sup>
 
 by: Aman Adhav <a href="https://linkedin.com/in/amanadhav"><img src="https://raw.githubusercontent.com/jrobchin/phormatics/master/screenshots/linkedin.png" height="20px"></a> <a href="https://github.com/dreamincodeforlife"><img src="https://raw.githubusercontent.com/jrobchin/phormatics/master/screenshots/github.png" height="20px"></a>
